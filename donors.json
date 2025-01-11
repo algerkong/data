@@ -1,26 +1,32 @@
 [
-   {
+    {
         "id": 6,
         "name": "F*n",
         "amount": 2.00,
         "date": "2025-01-12",
         "badge": "开源赞助",
+        "message": "",
+        "type": 1,
         "badgeColor": "#FF69B4"
-   },
-   {
+    },
+    {
         "id": 6,
         "name": "*昌",
         "amount": 6.66,
         "date": "2025-01-11",
         "badge": "开源赞助",
+        "message": "你是在做一件了不起的事，加油!",
+        "type": 1,
         "badgeColor": "#FF69B4"
-   },
-   {
+    },
+    {
         "id": 6,
         "name": "*独",
         "amount": 1.68,
         "date": "2025-01-11",
         "badge": "开源赞助",
+        "message": "",
+        "type": 1,
         "badgeColor": "#FF69B4"
     },
     {
@@ -29,14 +35,8 @@
         "amount": 10,
         "date": "2025-01-11",
         "badge": "开源赞助",
-        "badgeColor": "#FF69B4"
-    },
-    {
-        "id": 6,
-        "name": "**杰",
-        "amount": 6.66,
-        "date": "2025-01-11",
-        "badge": "开源赞助",
+        "message": "软件超牛逼",
+        "type": 1,
         "badgeColor": "#FF69B4"
     },
     {
@@ -45,6 +45,8 @@
         "amount": 5,
         "date": "2025-01-01",
         "badge": "开源赞助",
+        "message": "",
+        "type": 0,
         "badgeColor": "#FF69B4"
     },
     {
@@ -53,6 +55,8 @@
         "amount": 1,
         "date": "2024-12-26",
         "badge": "开源赞助",
+        "message": "",
+        "type": 1,
         "badgeColor": "#FF69B4"
     },
     {
@@ -61,6 +65,8 @@
         "amount": 5,
         "date": "2024-12-25",
         "badge": "开源赞助",
+        "message": "",
+        "type": 0,
         "badgeColor": "#FF69B4"
     },
     {
@@ -69,6 +75,8 @@
         "amount": 1.68,
         "date": "2024-12-25",
         "badge": "开源赞助",
+        "message": "",
+        "type": 1,
         "badgeColor": "#FF69B4"
     },
     {
@@ -77,6 +85,8 @@
         "amount": 1.99,
         "date": "2024-12-18",
         "badge": "开源赞助",
+        "message": "",
+        "type": 1,
         "badgeColor": "#FF69B4"
     },
     {
@@ -85,6 +95,8 @@
         "amount": 1,
         "date": "2024-12-15",
         "badge": "开源赞助",
+        "message": "",
+        "type": 1,
         "badgeColor": "#FF69B4"
     }
 ]
