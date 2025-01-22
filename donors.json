@@ -1,6 +1,16 @@
 [
 {
     "id": 6,
+    "name": "*杰",
+    "amount": 10,
+    "date": "2025-01-22",
+    "badge": "开源赞助",
+    "message": "感谢大佬对Mac用户的关照。",
+    "type":1,
+    "badgeColor": "#f00"
+},
+{
+    "id": 6,
     "name": "*鱼",
     "amount": 10,
     "date": "2025-01-22",
